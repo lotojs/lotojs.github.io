@@ -19,6 +19,6 @@ This library is specially built for handling client requests through the HTTP pr
 
 Yes!
 
-> You would help us a lot if you find a bug or simply have a contribution, do not hesitate to support us on [github](https://github.com/eduluc12/lottojs).
+> You would help us a lot if you find a bug or simply have a contribution, do not hesitate to support us on [github](https://github.com/lottojs/lottojs).
 
 
