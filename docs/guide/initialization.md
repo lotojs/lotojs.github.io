@@ -22,3 +22,5 @@ const myapp = App.init(
 );
 // const referenceToExpress = myapp.app;
 ```
+
+> Check the 'Usage' guide for more references.
