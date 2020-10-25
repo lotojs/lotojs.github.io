@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-<center><span style="font-size:28px">LottoJS</span></center>
+<center><span style="font-size:28px">LotoJS</span></center>
 
 
 * [Home](/)
