@@ -22,11 +22,21 @@
       subMaxLevel: 3,
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      search: 'auto', // default
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: 'Search...',
+        noData: 'No Results!',
+        depth: 6,
+        hideOtherSidebarContent: false,
       }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 
 </body>
 </html>
